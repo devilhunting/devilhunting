@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=devilhunting&color=lightgrey&label=♡)
 
-[clip♡](https://github.com/mirceno) [atabook](https://yoshida.atabook.org)
+[my king](https://github.com/mirceno) [atabook](https://yoshida.atabook.org)
 
-<img width="500" height="600" alt="sign my atabook" src="https://github.com/user-attachments/assets/343861db-e1b2-406c-86d1-664a581117f9" />
+<img width="300" height="500" alt="sign my atabook" src="https://github.com/user-attachments/assets/343861db-e1b2-406c-86d1-664a581117f9" />
 
 <!--
 **devilhunting/devilhunting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
