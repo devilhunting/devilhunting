@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?devilhunting&color=lightgrey)
+![](https://komarev.com/ghpvc/?username:devilhunting&color=lightgrey)
 
 <!--
 **devilhunting/devilhunting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
