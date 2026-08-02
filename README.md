@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&pause=1000&color=F7F7F7&width=435&lines=sign+my+atabook+!)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <img width="300" height="500" alt="sign my atabook" src="https://github.com/user-attachments/assets/343861db-e1b2-406c-86d1-664a581117f9" />
 
