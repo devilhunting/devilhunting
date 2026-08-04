@@ -1,13 +1,12 @@
  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ![](https://komarev.com/ghpvc/?username=devilhunting&color=lightgrey&label=♡)
 
- ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ [nephew](https://github.com/bloodbathed) 
+ ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎   [nephew](https://github.com/bloodbathed) 
 
  [pt-fashion](https://github.com/pt-fashion) [pt-walk-of-fame](https://github.com/pt-walk-of-fame)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&pause=1000&color=F7F7F7&width=435&lines=sign+my+atabook+!)](https://git.io/typing-svg)
 
 
-<img width="300" height="500" alt="sign my atabook" src="https://github.com/user-attachments/assets/343861db-e1b2-406c-86d1-664a581117f9" />
 
 <!--
 **devilhunting/devilhunting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
