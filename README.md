@@ -2,6 +2,8 @@
 
  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ [nephew](https://github.com/bloodbathed) 
 
+ [pt-fashion](https://github.com/pt-fashion) [pt-walk-of-fame](https://github.com/pt-walk-of-fame)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&pause=1000&color=F7F7F7&width=435&lines=sign+my+atabook+!)](https://git.io/typing-svg)
 
 
