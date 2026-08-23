@@ -1,3 +1,4 @@
+
  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎![](https://komarev.com/ghpvc/?username=devilhunting&color=yellow&label=views)
 
  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  [nephew](https://github.com/bloodbathed) 
@@ -6,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&pause=1000&color=F7F7F7&width=435&lines=sign+my+atabook+!)](https://git.io/typing-svg)
 
-
+<img width="736" height="748" alt="Pochita-Photoroom" src="https://github.com/user-attachments/assets/12ffebe2-def9-432f-9cbc-d24bc6540255" />
 
 <!--
 **devilhunting/devilhunting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
