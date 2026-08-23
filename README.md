@@ -1,4 +1,4 @@
- ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎  ‎‎  ‎![](https://komarev.com/ghpvc/?username=devilhunting&color=lightgrey&label=♡)
+ ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎  ‎‎  ‎![](https://komarev.com/ghpvc/?username=devilhunting&color=lightgrey&label=views)
 
  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  [nephew](https://github.com/bloodbathed) 
 
