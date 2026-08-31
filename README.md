@@ -1,5 +1,5 @@
 
- ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎![](https://komarev.com/ghpvc/?username=devilhunting&color=white&label=views)
+ ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎![](https://komarev.com/ghpvc/?username=devilhunting&color=#00000&label=views)
 
  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  [nephew](https://github.com/bloodbathed) 
 
