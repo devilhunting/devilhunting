@@ -1,7 +1,5 @@
-
- ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎‎![](https://komarev.com/ghpvc/?username=devilhunting&color=lightgrey&label=views)
-
- ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ [pt-fashion](https://github.com/pt-fashion) [pt-walk-of-fame](https://github.com/pt-walk-of-fame)
+![](https://komarev.com/ghpvc/?username=devilhunting&color=lightgrey&label=views)
+[pt-fashion](https://github.com/pt-fashion) [pt-walk-of-fame](https://github.com/pt-walk-of-fame)
 
 
 <!--
